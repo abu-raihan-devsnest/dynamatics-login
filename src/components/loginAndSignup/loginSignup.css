@@ -1,0 +1,9 @@
+.arow {
+  display: none !important;
+}
+
+.login ::placeholder,
+.signup ::placeholder {
+  color: #4e53f3;
+  color: #b1b1b1;
+}
